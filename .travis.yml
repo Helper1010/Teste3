@@ -1,0 +1,3 @@
+language: python
+pyhton: '3.6.2'
+script: py.test test.py
